@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+
+# VSCode settings (if used)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# Data files (optional: exclude large or private datasets)
+data/chicago_taxi_trips_subset.csv
+data/*.csv
+
+# Logs and outputs
+*.log
+*.out
+*.bak
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
